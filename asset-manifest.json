@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/manan-website/static/css/main.31d6cfe0.css",
-    "main.js": "/manan-website/static/js/main.1ed44fdb.js",
+    "main.js": "/manan-website/static/js/main.4de49f76.js",
     "index.html": "/manan-website/index.html",
-    "main.1ed44fdb.js.map": "/manan-website/static/js/main.1ed44fdb.js.map"
+    "main.4de49f76.js.map": "/manan-website/static/js/main.4de49f76.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.1ed44fdb.js"
+    "static/js/main.4de49f76.js"
   ]
 }
