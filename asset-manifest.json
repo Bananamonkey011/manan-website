@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/manan-website/static/css/main.f3680855.css",
-    "main.js": "/manan-website/static/js/main.d53f89f3.js",
+    "main.css": "/manan-website/static/css/main.9745dabe.css",
+    "main.js": "/manan-website/static/js/main.60539787.js",
     "static/media/MananFormal.png": "/manan-website/static/media/MananFormal.cd792413bb4464fbd598.png",
     "static/media/BG.png": "/manan-website/static/media/BG.8b6d72fe5954a3e19b5e.png",
     "index.html": "/manan-website/index.html",
-    "main.f3680855.css.map": "/manan-website/static/css/main.f3680855.css.map",
-    "main.d53f89f3.js.map": "/manan-website/static/js/main.d53f89f3.js.map"
+    "main.9745dabe.css.map": "/manan-website/static/css/main.9745dabe.css.map",
+    "main.60539787.js.map": "/manan-website/static/js/main.60539787.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3680855.css",
-    "static/js/main.d53f89f3.js"
+    "static/css/main.9745dabe.css",
+    "static/js/main.60539787.js"
   ]
 }
